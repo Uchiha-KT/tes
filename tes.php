@@ -1,5 +1,7 @@
 <?php
 	echo "Tes";
-	
-	echo "haririr"
+
+	echo "hariririski"
+	echo "v1"
+
 ?>
