@@ -1,5 +1,6 @@
 <?php
 	echo "Tes";
 	
-	echo "haririr"
+echo "haririr"
+	//lkfjlkdjfkdfj
 ?>
