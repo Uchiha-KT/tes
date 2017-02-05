@@ -1,11 +1,41 @@
 <?php
 	echo "Tes";
 <<<<<<< HEAD
-	
+
 echo "haririr"
 	//lkfjlkdjfkdfj
 =======
 
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
+	echo "hariririski"
+	echo "v1"
+	echo "v2"
 	echo "hariririski"
 	echo "v1"
 	echo "v2"
